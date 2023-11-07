@@ -2,6 +2,8 @@
 
 Crop and straighten images containing text to prepare for Optical Character Recognition
 
+![textalign logo](/assets/textalign_logo.png)
+
 **TextAlign** is a Python script designed to process images and extract text bounding boxes. It is useful for various applications, such as OCR preprocessing, where text alignment and cleaning are required. The script supports various image formats, including JPEG, JPG, PNG, BMP, TIFF, and TIF.
 
 ## Features
